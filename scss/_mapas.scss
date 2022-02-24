@@ -1,0 +1,9 @@
+$redes : (
+    instagram: rgb(220, 111, 235),
+    facebook: rgb(79, 79, 250),
+    whatsapp: rgb(107, 238, 107),
+);
+
+.botonFacebook {
+    color: map-get($map: $redes, $key: facebook );
+}
