@@ -37,6 +37,7 @@
   border-bottom: ridge 2px #ff5c58;
 }
 
+/* eXTEND */
 .bordeHogar, .bordeCrea, .bordeDeporte, .bordeBasar {
   border: 3px dashed #aa9b91;
   margin: 15px 0%;
